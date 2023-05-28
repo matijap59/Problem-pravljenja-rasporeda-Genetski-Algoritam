@@ -1,1 +1,1 @@
-# Problem-pravljenja-rasporeda-Genetski-Algoritam
+Problem pravljenja rasporeda-Genetski Algoritam
